@@ -22,6 +22,12 @@ HealthMate/
 ├── app/ # Streamlit chatbot code
 ├── README.md # documentation
 
+## 🚀 Live Demo
+
+Explore the HealthMate Chatbot here:  
+👉 [https://healthmate-ai-chatbot-for-diabetes-prediction-kxneovmdzkoxccu8.streamlit.app/](https://healthmate-ai-chatbot-for-diabetes-prediction-kxneovmdzkoxccu8.streamlit.app/)
+
+
 ## Preview
 ![Preview](Screenshot%20(70).png)
 
