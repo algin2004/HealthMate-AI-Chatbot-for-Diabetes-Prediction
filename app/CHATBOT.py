@@ -13,7 +13,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestClassifier
 
 # Load dataset
-df = pd.read_csv(r"C:\Users\ALGIN FARRELL\Desktop\New projects\HealthMate\data\diabetes.csv")
+df = pd.read_csv("data\diabetes.csv")
 
 X = df.drop("Outcome", axis=1)
 y = df["Outcome"]
