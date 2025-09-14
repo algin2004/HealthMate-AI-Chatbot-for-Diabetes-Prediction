@@ -33,6 +33,7 @@ HealthMate/
 
 -Provides real-time predictions + health tips
 
+
 📌 Future Scope
 
 🌐 Deploy on cloud (Streamlit Cloud/Heroku)
