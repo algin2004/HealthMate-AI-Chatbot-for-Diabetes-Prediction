@@ -40,6 +40,7 @@ Explore the HealthMate Chatbot here:
 -Provides real-time predictions + health tips
 
 
+
 📌 Future Scope
 
 🌐 Deploy on cloud (Streamlit Cloud/Heroku)
@@ -50,6 +51,6 @@ Explore the HealthMate Chatbot here:
 
 👨‍🎓 Author
 
-Algin Farrell
-📧 [alginfarrell82@gmail.com]
-🔗 https://www.linkedin.com/in/algin-farrell-16681432b
+-Algin Farrell
+-📧 [alginfarrell82@gmail.com]
+-🔗 https://www.linkedin.com/in/algin-farrell-16681432b
